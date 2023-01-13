@@ -19,6 +19,8 @@ public class PCroomEx {
         int[] pcRoom = new int[100];
         int rejectCnt = 0; // 거절 횟수
         int seatNum; // 손님이 원하는 좌석 번호를 입력받기 위한 변수
+
+        System.out.print("입장한 손님의 수 : ");
         int num = sc.nextInt(); //손님의 수를 입력받음
         for (int i = 0; i < num; i++) {
             seatNum = sc.nextInt(); // 좌석번호는 1번부터 시작

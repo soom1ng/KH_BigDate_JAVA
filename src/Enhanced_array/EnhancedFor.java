@@ -6,7 +6,8 @@ public class EnhancedFor {
         int[] score = {50, 60, 70};
         int sum = 0;
 
-        for(int i :score) sum+= i;
+        for(int i : score) sum+= i;
+
 
         System.out.println("총점 : " + sum);
 //        System.out.printf("평균 :  %2.f\n",((double)sum / score.length));
