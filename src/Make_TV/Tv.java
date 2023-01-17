@@ -1,17 +1,17 @@
 package Make_TV;
 // Television 만들기
-public class TV {
+public class Tv {
     private boolean isON; // 전원 버튼, 접근 제한자 private 설정 (같은 클래스 내에서만 접근 가능)
     private int channel; // 0 ~ 999
     private int volume; // 0 ~ 100
 
-    TV() {
+    Tv() {
         isON = false;
         channel = 10;
         volume = 10;
         System.out.printf("기본생성자 호출, 전원 : %b, 채널 : %d, 볼륨 : %d\n", isON ,channel, volume);
     }
-    TV(boolean isON, int cnl, int vol) {
+    Tv(boolean isON, int cnl, int vol) {
         this.isON = isON;
         channel = cnl;
         volume = vol;

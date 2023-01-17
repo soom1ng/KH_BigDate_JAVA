@@ -10,10 +10,10 @@ public class MethodOverLoading {
         System.out.println(sum(100, 200, 300, 400));
     }
 
-
     static int sum (int x, int y) {
         return x + y;
     }
+
     static int sum(int x, int y, int z) {
         return x + y + z ;
     }
@@ -30,4 +30,18 @@ public class MethodOverLoading {
     static String sum(int x, String y, int z) {
         return x + y + z;
     }
+
+
+
+//    public void test() {}
+//    public void test(String str) {}
+//    public void test(int i) {}
+//    public void test(String s){} // 2번째 String str
+//    public void test (char ch) {}
+//    public void test (String str, int i) {}
+//    public void test (int i, String str) {}
+//    private void test (int i) {} //> 3번째 접근제한자 무관
+//    public int test() {return 0;} //> 1번째 리턴값이 다르지만 매개변수가 같음 .
+
+
 }
