@@ -5,6 +5,7 @@ package Average_university;
 // 3 70 90 80
 // 3 70 90 81
 // 9 100 99 98 97 96 95 94 93 91
+
 import java.util.Scanner;
 public class AverMain {
     public static void main(String[] args) {
