@@ -1,2 +1,4 @@
-package Generic_extand;public class Water {
+package Generic_extand;
+
+public class Water {
 }

@@ -13,7 +13,7 @@ public class ClassDiagram {
 class Circle {
     // 클래스 다이어그램 일 때, + : public 사용 / - : private 사용
     public final static double PI = 3.14; // final static 일 때 , 상수로 취급
-    private double radius; // 접근제한자 ㅖ확인 필요
+    private double radius; // 접근제한자 확인 필요
 
     public Circle(double radius) { // 생성자 호출 시 매개변수가 필요 함 .
         this.radius = radius;

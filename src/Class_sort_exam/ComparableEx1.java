@@ -1,7 +1,5 @@
 package Class_sort_exam;
 
-import Make_car.Car;
-
 import java.util.TreeSet;
 
 // Comparable 은 클래스 정렬을 구현할 수 있도록 해주는 인터페이스이며 TreeSet 컬렉션에서 사용해야 함 .

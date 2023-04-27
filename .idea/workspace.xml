@@ -1,23 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f5eac28-d441-41a1-bc38-fadbd17dc811" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_Java.iml" afterDir="false" />
+    <list default="true" id="1f5eac28-d441-41a1-bc38-fadbd17dc811" name="Changes" comment="1월19일-20일 실습">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract_class_basic/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract_method/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract_method/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_fruit_ex/FruitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_list_ex/ArrayEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arraylist_object/ArraylistObjectEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arraylist_object/MenuInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_class/ArraysTestEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assist_stream_basic/AssistStreamBasicEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assist_stream_exam/AssistStreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assist_stream_exam/siroo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_conversion/ConversionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Breakeven_point_ex/BreakevenEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calendar_class/CalendarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cipher_exam/CipherEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cipher_exam/CipherExFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_class/ClassTestEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_exam/CarSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_exam/ComparableEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_exam2/ComparableEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_exam2/DescendComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_exam2/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_practice/ClassSortEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_practice/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_sort_practice/ScoreSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clone_method/CloneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clone_method/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Console_inoutput/ConsoleEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_class/DateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decimal_to_binary/ConverseExFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decimal_to_binary/ConversionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Down_casting/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Down_casting/DownCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnumType_method/EnumMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum_type/EnumTypeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum_type/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum_type_exam/Career.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum_type_exam/DevType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum_type_exam/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum_type_exam/EnumTypeEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum_type_exam/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_exam/ExceptionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_exam2/ExceptionEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_exam3/ExceptionEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_exam4/ExceptionEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_exam5/ExceptionEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_exam6/ExceptionEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_exam7/ExceptionEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_multiple_num/MultipleSearchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_basic/GenericTestEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_exam/GenericTestEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_extand/GenericApplyEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_extand/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_extand/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_extand/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_extand/Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic_extand/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSet_apply/HashSetApplyEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSet_exam/UnionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash_set_basic/HashSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashmap_basic/HashMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Import_exam/ImportEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_out_stream_exam/InOutStreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_out_stream_exam2/InOutStreamEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_out_stream_exam3/InOutStreamEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_out_stream_exam4/InOutStreamEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_out_stream_exam5/InOutStreamEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_out_stream_exam5/siroo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_out_stream_exam6/InOutStreamEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_output_practice/InOutStreamTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_output_practice/StudentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_output_practice2/CoffeeMenuInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/In_output_practice2/InOutStreamTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface_remotCon/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface_remotCon/RemoteConMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface_remotCon/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface_remotCon/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Less_valueX/LessThanEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_RPG_game/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_RPG_game/GameAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_RPG_game/GameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_RPG_game/GameThA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_RPG_game/GameThB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_RPG_game/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_coffee_menu/CoffeeMenuEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Make_coffee_menu/MenuInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math_class/MathMainEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi_type/MultiTypeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_class/NestedMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_class/OutClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_interface/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_interface/CallListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_interface/MessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_interface/NestedInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object_class/ObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prefix_sum_exam/PrefixCalcEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prefix_sum_exam/PrefixSumEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prime_word/PrimeEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prime_word/PrimeExFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Properties/PropertiesEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pythagoras_theorem/PythagorasEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pythagoras_theorem/PythagorasExFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue_exam/QueueEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resistance/ResistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serial_stream_exam/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serial_stream_exam/SerialStreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_apply/StackApply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_basic/StackEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_coin/StackCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_buffer/StringBufferMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_token/TokenTestEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Study_word_ex/WordStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_cycle/SumEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_cycle/SumExFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_of_number/NumberSumEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/System_class/SystemTestEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_02_06/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam/ThreadEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam2/CustomThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam2/RunThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam2/ThreadEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam3/ThreadEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam4/ThreadEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam5/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam5/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam5/ThreadEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam5/WorkObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam6/InterruptThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam6/RunThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam6/ThreadEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam7/ThreadEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread_exam8/ThreadEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree_map_basic/TreeMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree_set/TreeSetBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree_set_exam/TreeSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector_exam/VectorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrapper_class/WrapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_diagram/ClassDiagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_diagram/ClassDiagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotto_array_list/LottoArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotto_array_list/LottoArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a4e2ef04-bdda-4a3f-9ae3-e707f96c2963" />
+        <option name="url" value="https://github.com/soom1ng/KH_BigDate_JAVA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KA98nYsfijCOqYCmsaX0e8llyO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,11 +195,109 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/sumin/Desktop/KH_academy/dev/work_JAVA/src/Assist_stream_exam",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Make_coffee_menu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Assist_stream_exam" />
+      <recent name="$PROJECT_DIR$/src/in_out_stream_exam5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Abstract_class_basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InOutStreamTest2">
+    <configuration name="장" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="In_output_practice.장" />
+      <module name="work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="In_output_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssistStreamEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assist_stream_exam.AssistStreamEx1" />
+      <module name="work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assist_stream_exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InOutStreamEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="In_out_stream_exam5.InOutStreamEx5" />
+      <module name="work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="In_out_stream_exam5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InOutStreamTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="In_output_practice.InOutStreamTest1" />
+      <module name="work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="In_output_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InOutStreamTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="In_output_practice2.InOutStreamTest2" />
+      <module name="work_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="In_output_practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AssistStreamEx1" />
+      <item itemvalue="Application.InOutStreamEx5" />
+      <item itemvalue="Application.InOutStreamTest1" />
+      <item itemvalue="Application.InOutStreamTest2" />
+      <item itemvalue="Application.장" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InOutStreamTest2" />
+        <item itemvalue="Application.InOutStreamEx5" />
+        <item itemvalue="Application.장" />
+        <item itemvalue="Application.InOutStreamTest1" />
+        <item itemvalue="Application.AssistStreamEx1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,6 +307,56 @@
       <option name="presentableId" value="Default" />
       <updated>1673406364104</updated>
     </task>
+    <task id="LOCAL-00001" summary="1월12일 실습">
+      <created>1673569667339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673569667339</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1월13일 실습">
+      <created>1673828614229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673828614229</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1월14일 실습">
+      <created>1673848818115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673848818115</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1월16일 실습">
+      <created>1673934305659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673934305659</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1월17일 연습문제">
+      <created>1674006813273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674006813273</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1월18일 실습(에어컨만들기)">
+      <created>1674087113479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674087113479</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1월19일-20일 실습">
+      <created>1674623946390</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674623946390</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,5 +369,40 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1월12일 실습" />
+    <MESSAGE value="1월13일 실습" />
+    <MESSAGE value="1월14일 실습" />
+    <MESSAGE value="1월16일 실습" />
+    <MESSAGE value="1월17일 연습문제" />
+    <MESSAGE value="1월18일 실습(에어컨만들기)" />
+    <MESSAGE value="1월19일-20일 실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="1월19일-20일 실습" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Less_valueX/LessThanEx.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sum_cycle/SumEx1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Decimal_to_binary/ConversionEx1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

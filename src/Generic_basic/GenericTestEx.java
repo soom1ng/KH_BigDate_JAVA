@@ -3,7 +3,7 @@ package Generic_basic;
 import java.util.ArrayList;
 import java.util.List;
 
-// 컴파일 시 강한 타입 체크 / 자ㅏ 8 이전 대비 변경 사항
+// 컴파일 시 강한 타입 체크 / 자바 8 이전 대비 변경 사항
 // 타입 변환 제거 / 자바 8 이전 대비 변경 사항
 public class GenericTestEx {
     public static void main(String[] args) {
